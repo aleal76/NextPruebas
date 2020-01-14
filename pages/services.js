@@ -1,9 +1,9 @@
 import Link from 'next/link';
-export default function About() {
+export default function Services() {
     return (
       <div>
-        <p>This is the about page by AA </p>
-        <p>otro más</p>
+        <p>Nuestros Servicios by AA </p>
+        <p>more and more</p>
         <Link href="/">
           <a>Home</a>
         </Link>
